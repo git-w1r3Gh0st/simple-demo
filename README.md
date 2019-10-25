@@ -1,3 +1,3 @@
-# simple-demo
+# Simple Example Repository
 
-+This is a simple repository for training
+This is just for testing Github purposes.
